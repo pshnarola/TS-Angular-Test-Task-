@@ -19,6 +19,11 @@
     "@angular/platform-browser": "~8.2.14",
     "@angular/platform-browser-dynamic": "~8.2.14",
     "@angular/router": "~8.2.14",
+    "@syncfusion/ej2-angular-buttons": "^19.2.60",
+    "@syncfusion/ej2-angular-dropdowns": "^19.2.62",
+    "@syncfusion/ej2-angular-grids": "^19.2.62",
+    "@syncfusion/ej2-angular-treegrid": "^19.2.60",
+    "lodash": "^4.17.21",
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1"
